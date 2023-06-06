@@ -1,5 +1,5 @@
 # parkerscope
-Code used to log data from the ALX-1309 light meter, as seen in this Stand-up Maths video: 
+Code used to log data from the ALX-1309 light meter, as seen in this Stand-up Maths video: https://youtu.be/IuUMxNfDfFY
 
 It took a while to work out how to get data from the ALX-1309 without using the ancient Windows-only softwear it came with.
 
